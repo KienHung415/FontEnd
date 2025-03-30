@@ -1,6 +1,6 @@
-# ĐỒ ÁN CƠ SỞ CNTT - NHÓM 6
+# ĐỒ ÁN CƠ SỞ CNTT - NHÓM 6 
 
-### Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam
+### Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam - FitVAA
 
 ## Đề tài: Hệ Thống Web Nghe Nhạc
 
